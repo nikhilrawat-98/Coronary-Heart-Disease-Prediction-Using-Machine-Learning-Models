@@ -1,0 +1,2 @@
+# Coronary-Heart-Disease-Prediction-Using-Machine-Learning-Models
+This project focuses on predicting Coronary Heart Disease (CHD) using machine learning models. The aim is to develop an effective model for early CHD diagnosis using clinical and lifestyle data. Several ML classifiers, including Logistic Regression, Support Vector Machines, Quadratic Discriminant Analysis, and others, were applied and compared.
